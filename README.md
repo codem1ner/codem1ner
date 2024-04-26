@@ -1,9 +1,5 @@
 ## Skills
 
-### Programming Languages
-
-![My Skills](https://skillicons.dev/icons?i=php)
-
 ### Full-Stack Development
 
 ![My Skills](https://skillicons.dev/icons?i=html)
