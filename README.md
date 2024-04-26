@@ -1,4 +1,22 @@
-### Hi there 👋
+## Skills
+
+### Programming Languages
+
+![My Skills](https://skillicons.dev/icons?i=php)
+
+### Full-Stack Development
+
+![My Skills](https://skillicons.dev/icons?i=html)
+![My Skills](https://skillicons.dev/icons?i=css)
+![My Skills](https://skillicons.dev/icons?i=js)
+![My Skills](https://skillicons.dev/icons?i=docker)
+
+### Other Applications and Tools
+
+![My Skills](https://skillicons.dev/icons?i=git)
+![My Skills](https://skillicons.dev/icons?i=github)
+![My Skills](https://skillicons.dev/icons?i=vscode)
+![My Skills](https://skillicons.dev/icons?i=linux)
 
 <!--
 **codem1ner/codem1ner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
